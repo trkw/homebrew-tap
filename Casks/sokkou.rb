@@ -1,7 +1,7 @@
 # このファイルは trkw/sokkou の release.yml が scripts/make-cask.sh で書く。手で直さない
 cask "sokkou" do
-  version "0.1.69"
-  sha256 "33ba700c10c233b886df510c3496088c53c275d965fa09b8328d41d449bd693a"
+  version "0.1.70"
+  sha256 "d9d797226cba59b605087064a51634d31b5f494573b513e6777d94e74654c5df"
 
   url "https://github.com/trkw/sokkou/releases/download/v#{version}/sokkou-macos-arm64.dmg"
   name "sokkou"
