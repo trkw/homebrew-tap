@@ -1,7 +1,5 @@
 # trkw/homebrew-tap
 
-```sh
-brew install --cask trkw/tap/sokkou
-```
+今は配布している cask は無い。
 
-`Casks/sokkou.rb` は [trkw/sokkou](https://github.com/trkw/sokkou) の release.yml がリリースのたびに書き換える。
+sokkou の cask は、trkw/sokkou が private になったので外した（2026-11-10）。sokkou は nix-darwin（trkw/dotfiles）と install.sh で入れる。
